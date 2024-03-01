@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <form method="post">
+        Name: <input type="text" name="name" /><br />
+        BirthDate: <input type="date" name="birthDate" /><br />
+        IsGraduated <input type="checkbox" name="IsGraduated" value="IsGraduated" /><br />
+        <input type="submit" value="Go" />
+    </form>
+
+    @if (!Request.Form["name"].IsEmpty() && !Request.Form["birthDate"].IsEmpty())
+    {
+        <div>
+            <p style="color:red">Hello @Request.Form["name"]</p>
+            <p style="color:blue">Your birthdate is : @Request.Form["birthDate"]</p>
+            @if (Request.Form["Isgraduated"] == "IsGraduated")
+            {
+                <p>I am a graduate</p>
+            }
+            else
+            {
+                <p>I am not a graduate</p>
+            }
+        </div>
+    }
+</body>
+</html>

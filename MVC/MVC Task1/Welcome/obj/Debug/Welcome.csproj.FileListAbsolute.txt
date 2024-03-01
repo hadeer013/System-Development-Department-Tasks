@@ -1,0 +1,144 @@
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\Welcome.dll.config
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\Welcome.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\Welcome.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\csc.exe
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\csc.exe.config
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\csc.rsp
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\csi.exe
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\csi.exe.config
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\csi.rsp
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.AppContext.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Collections.Immutable.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Console.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Globalization.Calendars.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.IO.Compression.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.IO.FileSystem.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Net.Http.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Net.Sockets.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Reflection.Metadata.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.ValueTuple.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Xml.XPath.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\vbc.exe
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\vbc.exe.config
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\vbc.rsp
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\VBCSCompiler.exe
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\roslyn\VBCSCompiler.exe.config
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\Microsoft.Web.Infrastructure.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.Helpers.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.Mvc.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.Razor.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.WebPages.Deployment.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.WebPages.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.WebPages.Razor.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.Helpers.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.Mvc.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.Razor.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.WebPages.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.WebPages.Deployment.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\System.Web.WebPages.Razor.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\obj\Debug\Welcome.csproj.AssemblyReference.cache
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\obj\Debug\Welcome.csproj.Up2Date
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\obj\Debug\Welcome.dll
+F:\Computer Science\iti_intake_44\16-C#\Day14_EF1\MVC Task1\Welcome\obj\Debug\Welcome.pdb
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\Welcome.dll.config
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\Welcome.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\Welcome.pdb
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\csc.exe
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\csc.exe.config
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\csc.rsp
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\csi.exe
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\csi.exe.config
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\csi.rsp
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.AppContext.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Collections.Immutable.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Console.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Globalization.Calendars.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.IO.Compression.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.IO.FileSystem.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Net.Http.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Net.Sockets.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Reflection.Metadata.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.ValueTuple.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Xml.XPath.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\vbc.exe
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\vbc.exe.config
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\vbc.rsp
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\VBCSCompiler.exe
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\roslyn\VBCSCompiler.exe.config
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\Microsoft.Web.Infrastructure.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.Helpers.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.Mvc.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.Razor.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.WebPages.Deployment.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.WebPages.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.WebPages.Razor.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.Helpers.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.Mvc.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.Razor.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.WebPages.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.WebPages.Deployment.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\System.Web.WebPages.Razor.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\obj\Debug\Welcome.csproj.AssemblyReference.cache
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\obj\Debug\Welcome.csproj.Up2Date
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\obj\Debug\Welcome.dll
+F:\Computer Science\iti_intake_44\20-MVC\Day 1\TaskSolution\MVC Task1\Welcome\obj\Debug\Welcome.pdb

@@ -1,0 +1,75 @@
+﻿@{
+    Layout = null;
+
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <link href="~/Styles/Cardstyle.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="bigContainner">
+        <form id="frm"method="post">
+
+            <p>Choose a background image </p>
+            <select name="background">
+                <option value="0.jpg">0</option>
+                <option value="1.jpg">1</option>
+                <option value="2.jpg">2</option>
+                <option value="3.jpg">3</option>
+                <option value="4.jpg">4</option>
+                <option value="5.jpg">5</option>
+                <option value="6.jpg">6</option>
+                <option value="7.jpg">7</option>
+                <option value="8.jpg">8</option>
+                <option value="9.jpg">9</option>
+                <option value="10.jpg">10</option>
+                <option value="11.jpg">11</option>
+            </select>
+
+            <p>Choose a font color : </p>
+            <select name="color">
+                <option value="black">black</option>
+                <option value="Hotpink">Hotpink</option>
+                <option value="gray">gray</option>
+                <option value="Purple">Purple</option>
+                <option value="Teal">Teal</option>
+            </select><br />
+
+            <p>Choose a greeting type</p><br />
+            Birthday<input type="radio" value="bd.jpg" name="GreetingType" /><br />
+            Valentine<input type="radio" value="val.bmp" name="GreetingType" /><br />
+            Congrates<input type="radio" value="congrats.gif" name="GreetingType" /><br />
+            GetWellSoon<input type="radio" value="well.gif" name="GreetingType" /><br />
+            <br /><br />
+
+
+            <input type="checkbox" value="on" name="picAdded" />Add The Picture
+            <p>Enter the greeting message below : </p>
+            <textarea cols="15" rows="3" name="msg"></textarea><br />
+
+            <input type="submit" value="Preview" />
+
+        </form>
+    </div>
+    @if (!Request.Form["background"].IsEmpty() && !Request.Form["color"].IsEmpty())
+     {
+        string back = "/backgrounds/" + Request.Form["background"];
+        string image = "/images/" + Request.Form["GreetingType"];
+        <div id="rightDiv" style="background-image:url(@back);color:@Request.Form["color"]">
+            @if (Request.Form["picAdded"] == "on")
+            {
+                <img id="Pic" src="@image" style="position:center;"/>
+            }
+
+            <p id="message">@Request.Form["msg"]</p>
+        </div>
+     }
+
+</body>
+</html>
