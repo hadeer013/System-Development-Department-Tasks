@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\utilities\\addfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\utilities\\addfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\views\\car\\updatecar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\views\\car\\updatecar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\views\\car\\cardetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\views\\car\\cardetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|f:\\computer science\\iti_intake_44\\20-mvc\\day 2\\assignment solution\\mvc task2\\mvc task2\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\views\\car\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\views\\car\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\models\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\models\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\utilities\\carlistaddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\utilities\\carlistaddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\mvc task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810FABB-26C0-4A1E-9DCE-2FCFD2274A04}|MVC Task2\\MVC Task2.csproj|solutionrelative:mvc task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCar.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\CreateCar.cshtml",
+              "RelativeDocumentMoniker": "MVC Task2\\Views\\Car\\CreateCar.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\CreateCar.cshtml",
+              "RelativeToolTip": "MVC Task2\\Views\\Car\\CreateCar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T16:07:38.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddFile.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Utilities\\AddFile.cs",
+              "RelativeDocumentMoniker": "MVC Task2\\Utilities\\AddFile.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Utilities\\AddFile.cs",
+              "RelativeToolTip": "MVC Task2\\Utilities\\AddFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:50:02.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDetails.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\CarDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC Task2\\Views\\Car\\CarDetails.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\CarDetails.cshtml",
+              "RelativeToolTip": "MVC Task2\\Views\\Car\\CarDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T14:21:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarList.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Models\\CarList.cs",
+              "RelativeDocumentMoniker": "MVC Task2\\Models\\CarList.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Models\\CarList.cs",
+              "RelativeToolTip": "MVC Task2\\Models\\CarList.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:00:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCar.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\UpdateCar.cshtml",
+              "RelativeDocumentMoniker": "MVC Task2\\Views\\Car\\UpdateCar.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\UpdateCar.cshtml",
+              "RelativeToolTip": "MVC Task2\\Views\\Car\\UpdateCar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T13:37:46.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Program.cs",
+              "RelativeDocumentMoniker": "MVC Task2\\Program.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Program.cs",
+              "RelativeToolTip": "MVC Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:19:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC Task2\\Views\\Car\\Index.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "MVC Task2\\Views\\Car\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T12:49:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "MVC Task2\\Controllers\\CarController.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Controllers\\CarController.cs",
+              "RelativeToolTip": "MVC Task2\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T11:38:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarListAddition.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Utilities\\CarListAddition.cs",
+              "RelativeDocumentMoniker": "MVC Task2\\Utilities\\CarListAddition.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Utilities\\CarListAddition.cs",
+              "RelativeToolTip": "MVC Task2\\Utilities\\CarListAddition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:15:10.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "MVC Task2\\Models\\Car.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day 2\\Assignment Solution\\MVC Task2\\MVC Task2\\Models\\Car.cs",
+              "RelativeToolTip": "MVC Task2\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T11:35:37.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

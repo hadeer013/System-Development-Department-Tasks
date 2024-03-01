@@ -1,0 +1,40 @@
+﻿@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>ALL Cars</h1>
+@{
+	var AllCars = (List<Car>)ViewData["AllCars"];
+}
+<a href="/Car/CreateCar" class="btn btn-primary">Add New Car</a><br />
+<table class="data-table table nowrap">
+	<thead>
+		<tr>
+			<th>Num</th>
+			<th>Model</th>
+			<th>Color</th>
+			<th>Manufacture</th>
+			<th>Image</th>
+			<th>&nbsp;</th>
+			<th>&nbsp;</th>
+			<th>&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in AllCars)
+		{
+			<tr>
+				<td>@item.Num</td>
+				<td>@item.Model</td>
+				<td>@item.Color</td>
+				<td>@item.Manufacture</td>
+				<td><img src="/images/@item.ImgUrl" width="50px" height="50px"/></td>
+				<td><a href="/Car/CarDetails/@item.Num " class="btn btn-primary">Details</a></td>
+				<td><a href="/Car/UpdateCar/@item.Num" class="btn btn-warning">Edit</a></td>
+				<td><a href="/Car/DeleteCar/@item.Num" class="btn btn-danger">Delete</a></td>
+			</tr>
+		}
+
+	</tbody>
+</table>
+

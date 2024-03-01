@@ -1,0 +1,40 @@
+﻿@{
+	ViewData["Title"] = "CarDetails";
+}
+
+<h1>CarDetails</h1>
+@{
+	var SCar = (Car)ViewData["SelectedCar"];
+}
+<form method="post" action="/Car/Index">
+
+	<div class=" form-group row">
+		<label for="Num">Car Number</label>
+		<input type="text" class="form-control" name="Num" value="@SCar.Num" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Model">Model</label>
+		<input type="text" class="form-control" name="Model" value="@SCar.Model" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Color">Color</label>
+		<input type="text" class="form-control" name="Color" value="@SCar.Color" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Manufacture">Manufacture</label>
+		<input type="text" value="@SCar.Manufacture" name="Manufacture" class="form-control" readonly />
+	</div>
+	<div class=" form-group row">
+		<label for="ImgUrl">Image</label>
+		
+	</div>
+	<img src="/images/@SCar.ImgUrl" height="150px" width="150px" />
+
+	<br />
+
+	<input type="submit" value="Back To List" class="btn btn-primary" />
+</form>
+

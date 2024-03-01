@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "UpdateCar";
+}
+
+<h1>UpdateCar</h1>
+
+@{
+	var SCar = (Car)ViewData["SelectedCar"];
+}
+
+<form method="post" action="/Car/SaveUpdateCar" enctype="multipart/form-data">
+
+	<div class=" form-group row">
+		<label for="Num">Car Number</label>
+		<input type="text" class="form-control" name="Num" value="@SCar.Num" readonly /><br />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Model">Model</label>
+		<input type="text" class="form-control" name="Model" value="@SCar.Model" />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Color">Color</label>
+		<input  type="text" class="form-control" name="Color" value="@SCar.Color"/>
+	</div>
+
+	<div class=" form-group row">
+		<label for="Manufacture">Manufacture</label>
+		<input type="text" value="@SCar.Manufacture" name="Manufacture"  class="form-control"/>
+	</div>
+
+	<div class=" form-group row">
+		<label for="Img">Image</label>
+		<input type="file" name="Img" />
+	</div>
+
+	<br />
+	<input type="submit" value="Save Changes" class="btn btn-primary"/>
+
+</form>
+
+
+
+
