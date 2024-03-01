@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProductCard
+build_property.RootNamespace = ProductCard
+build_property.ProjectDir = F:\Computer Science\iti_intake_44\20-MVC\Day 4(onsite)\Assignment Solution\ProductCard\ProductCard\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Computer Science\iti_intake_44\20-MVC\Day 4(onsite)\Assignment Solution\ProductCard\ProductCard
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/Product/ShowDefaultProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93RGVmYXVsdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/Product/ShowProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Computer Science/iti_intake_44/20-MVC/Day 4(onsite)/Assignment Solution/ProductCard/ProductCard/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a44eui0s5t

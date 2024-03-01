@@ -1,0 +1,54 @@
+﻿@model Employee
+@{
+	ViewData["Title"] = "UpdateEmployee";
+	var depts = ViewBag.Departments;
+}
+
+<h1>UpdateEmployee</h1>
+
+
+
+<form method="post" asp-action="UpdateEmployee">
+
+	<div class=" form-group row">
+		<input type="text" class="form-control" asp-for="@Model.EmployeeID" value="@Model.EmployeeID" readonly hidden /><br />
+	</div>
+
+	<div class=" form-group row">
+		<label asp-for="Name">Name</label>
+		<input type="text" class="form-control" asp-for="Name" value="@Model.Name" />
+	</div>
+
+	<div class=" form-group row">
+		<label asp-for="Password">Password</label>
+		<input asp-for="Password" type="text" class="form-control" value="@Model.Password" />
+	</div>
+
+	<div class=" form-group row">
+		<label asp-for="Email">Email</label>
+		<input type="text" value="@Model.Email" asp-for="Email" class="form-control" />
+	</div>
+
+
+	<div class=" form-group row">
+		<label asp-for="Salary">Salary</label>
+		<input type="text" value="@Model.Salary" asp-for="Salary" class="form-control" />
+	</div>
+	<div class=" form-group row">
+		<label asp-for="JoinDate">JoinDate</label>
+		<input type="text" value="@Model.JoinDate" asp-for="JoinDate" class="form-control" />
+	</div>
+	<div class=" form-group row">
+		<label asp-for="PhoneNum">PhoneNum</label>
+		<input type="text" value="@Model.PhoneNum" asp-for="PhoneNum" class="form-control" />
+	</div>
+
+	<div class=" form-group row">
+		<label asp-for="DepartmentId">Department</label>
+		<select asp-for="DepartmentId" asp-items="@depts">
+		</select>
+	</div>
+
+	<input type="submit" value="Save Changes" class="btn btn-primary" />
+
+</form>

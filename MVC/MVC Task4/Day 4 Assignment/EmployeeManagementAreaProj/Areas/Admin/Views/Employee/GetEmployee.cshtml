@@ -1,0 +1,45 @@
+﻿@using EmployeeManagementAreaProj.Areas.Admin.Models
+@model Employee
+@{
+	ViewData["Title"] = "GetEmployee";
+	var dept = (Department)ViewBag.dept;
+}
+
+<h1>GetEmployee</h1>
+<div>
+	<div class=" form-group row">
+		<label asp-for="Name">Model</label>
+		<input type="text" class="form-control" asp-for="Name" value="@Model.Name" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label asp-for="Password">Password</label>
+		<input asp-for="Password" type="text" class="form-control" value="@Model.Password" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label asp-for="Email">Email</label>
+		<input type="text" value="@Model.Email" asp-for="Email" class="form-control" readonly />
+	</div>
+
+
+	<div class=" form-group row">
+		<label asp-for="Salary">Salary</label>
+		<input type="text" value="@Model.Salary" asp-for="Salary" class="form-control" readonly />
+	</div>
+	<div class=" form-group row">
+		<label asp-for="JoinDate">JoinDate</label>
+		<input type="text" value="@Model.JoinDate" asp-for="JoinDate" class="form-control" readonly />
+	</div>
+	<div class=" form-group row">
+		<label asp-for="PhoneNum">PhoneNum</label>
+		<input type="text" value="@Model.PhoneNum" asp-for="PhoneNum" class="form-control" readonly />
+	</div>
+	
+	<div>
+		<label asp-for="DepartmentId">Department</label>
+		<input type="text" value="@dept.Name" asp-for="DepartmentId" class="form-control" readonly />
+	</div>
+	<a asp-action="GetAllEmployees" class="btn btn-primary" >Back To List</a>
+</div>
+

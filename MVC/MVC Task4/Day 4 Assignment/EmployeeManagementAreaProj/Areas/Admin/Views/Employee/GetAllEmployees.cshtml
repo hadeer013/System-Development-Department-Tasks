@@ -1,0 +1,65 @@
+﻿
+@model List<Employee>
+@{
+    ViewData["Title"] = "GetAllEmployees";
+    var depts = (SelectList)ViewBag.Departments;
+}
+
+<div class="col-md-12 text-center">
+    <h1>All Employees</h1>
+</div>
+
+<a asp-action="AddNewEmployee" class="btn btn-primary mb-3">Add New Employee</a>
+
+<form asp-action="GetAllEmployees" method="post" class="mb-3">
+    <div class="input-group">
+        <select name="SelectedDept" class="form-select">
+            <option value="0">--- Select Department ---</option>
+            @foreach (var dept in depts)
+            {
+                if (int.Parse(dept.Value) == Model[0].DepartmentId)
+                {
+                    <option value="@dept.Value" selected>@dept.Text</option>
+                }
+                else
+                {
+                    <option value="@dept.Value" >@dept.Text</option>
+                }
+                
+            }
+        </select>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Name</th>
+            <th>PhoneNum</th>
+            <th>Salary</th>
+            <th>JoinDate</th>
+            <th>Department</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Email</td>
+                <td>@item.Name</td>
+                <td>@item.PhoneNum</td>
+                <td>@item.Salary</td>
+                <td>@item.JoinDate</td>
+                <td>@item.Department.Name</td>
+                <td><a asp-action="GetEmployee" asp-route-Id="@item.EmployeeID" class="btn btn-primary">Details</a></td>
+                <td><a asp-action="UpdateEmployee" asp-route-Id="@item.EmployeeID" class="btn btn-warning">Edit</a></td>
+                <td><a asp-action="DeleteEmployee" asp-route-Id="@item.EmployeeID" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

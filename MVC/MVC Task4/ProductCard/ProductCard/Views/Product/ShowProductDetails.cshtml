@@ -1,0 +1,49 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "ProductDetails";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <h4>@Model.Name</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-4">
+                    <label asp-for="Id"></label>
+                </dt>
+                <dd class="col-sm-8">
+                    <label asp-for="Id"></label>
+                </dd>
+
+                <dt class="col-sm-4">
+                    <label asp-for="Name"></label>
+                </dt>
+                <dd class="col-sm-8">
+                    <label asp-for="Name"></label>
+                </dd>
+
+                <dt class="col-sm-4">
+                    <label asp-for="Price"></label>
+                </dt>
+                <dd class="col-sm-8">
+                    <label asp-for="Price"></label>
+                </dd>
+
+                <dt class="col-sm-4">
+                    <label asp-for="Description"></label>
+                </dt>
+                <dd class="col-sm-8">
+                    <label asp-for="Description"></label>
+                </dd>
+            </dl>
+            <img src="/images/1.jpg" class="img-fluid" />
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-md-6">
+            @* <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a> *@
+            <a asp-action="ShowDefaultProduct" class="btn btn-secondary">Back to Prev</a>
+        </div>
+    </div>
+</div>
