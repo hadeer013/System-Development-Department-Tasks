@@ -1,0 +1,73 @@
+﻿@model Car
+@{
+	ViewData["Title"] = "CarDetails";
+}
+
+<h1>CarDetails</h1>
+
+
+@* <form method="post" action="/Car/Index">
+
+	<div class=" form-group row">
+		<label for="Num">Car Number</label>
+		<input type="text" class="form-control" name="Num" value="@Model.Num" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Model">Model</label>
+		<input type="text" class="form-control" name="Model" value="@Model.Model" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Color">Color</label>
+		<input type="text" class="form-control" name="Color" value="@Model.Color" readonly />
+	</div>
+
+	<div class=" form-group row">
+		<label for="Manufacture">Manufacture</label>
+		<input type="text" value="@Model.Manufacture" name="Manufacture" class="form-control" readonly />
+	</div>
+	<div class=" form-group row">
+		<label for="ImgUrl">Image</label>
+		
+	</div>
+	<img src="/images/@Model.ImgUrl" height="150px" width="150px" />
+
+	<br />
+
+	<input type="submit" value="Back To List" class="btn btn-primary" />
+</form> *@
+
+@using (Html.BeginForm("Index","Car",FormMethod.Post))
+{
+	<div class=" form-group row">
+		@Html.LabelFor(m=>m.Num)
+		@Html.EditorFor(model => model.Num, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+	</div>
+
+	<div class=" form-group row">
+		@Html.LabelFor(m => m.Model)
+		@Html.EditorFor(model => model.Model, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+	</div>
+
+	<div class=" form-group row">
+		@Html.LabelFor(m => m.Color)
+		@Html.EditorFor(model => model.Color, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+	</div>
+
+	<div class=" form-group row">
+		@Html.LabelFor(m => m.Manufacture)
+		@Html.EditorFor(model => model.Manufacture, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+	</div>
+
+	<div class=" form-group row">
+		@Html.LabelFor(m => m.ImgUrl)
+		@Html.EditorFor(model => model.ImgUrl, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+	</div>
+
+	<img src="/images/@Model.ImgUrl" height="150px" width="150px" />
+	<br />
+
+	<input type="submit" value="Back To List" class="btn btn-primary" />
+}
+
