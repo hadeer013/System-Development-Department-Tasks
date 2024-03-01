@@ -1,0 +1,72 @@
+﻿@model List<ProductOrderManagement.Models.Order>
+
+@{
+	ViewData["Title"] = "Index";
+	var AllCus = (SelectList)ViewBag.AllCus;
+}
+
+<h1>Index</h1>
+
+
+<form asp-action="Index" class="mb-3">
+	<div class="input-group">
+		<select name="Id" class="form-select">
+			<option value="0">---- Select Customer ----</option>
+			@foreach (var cus in AllCus)
+            {
+				if (int.Parse(cus.Value) == Model[0].CustID)
+                {
+					<option value="@cus.Value" selected>@cus.Text</option>
+                }
+                else
+                {
+					<option value="@cus.Value">@cus.Text</option>
+                }
+			}
+		</select>
+	</div>
+	<input type="submit" value="Search"/>
+</form>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model[0].Id)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model[0].Date)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model[0].TotalPrice)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model[0].Customer.Name)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Id)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Date)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.TotalPrice)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Customer.Name)
+				</td>
+				<td>
+					<a asp-action="Edit" asp-route-Id="@item.Id" class="btn btn-primary">Edit</a>
+					<a asp-action="Details" asp-route-Id="@item.Id" class="btn btn-warning">Details</a>
+					<a asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-danger">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
