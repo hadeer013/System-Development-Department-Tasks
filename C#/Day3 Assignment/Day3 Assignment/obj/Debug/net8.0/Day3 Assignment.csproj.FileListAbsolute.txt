@@ -1,0 +1,14 @@
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\bin\Debug\net8.0\Day3 Assignment.exe
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\bin\Debug\net8.0\Day3 Assignment.deps.json
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\bin\Debug\net8.0\Day3 Assignment.runtimeconfig.json
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\bin\Debug\net8.0\Day3 Assignment.dll
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\bin\Debug\net8.0\Day3 Assignment.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.AssemblyInfoInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.AssemblyInfo.cs
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.csproj.CoreCompileInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.dll
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\refint\Day3 Assignment.dll
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\Day3 Assignment.genruntimeconfig.cache
+F:\Computer Science\iti_intake_44\16-C#\Day3\Day3 Assignment\Day3 Assignment\obj\Debug\net8.0\ref\Day3 Assignment.dll
