@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Computer Science\\iti_intake_44\\16-C#\\Day2\\lab Solution\\Day2Bonus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551432AB-37F1-496D-8F3D-81D6F4062FC4}|Day2Bonus\\Day2Bonus.csproj|f:\\computer science\\iti_intake_44\\16-c#\\day2\\lab solution\\day2bonus\\day2bonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551432AB-37F1-496D-8F3D-81D6F4062FC4}|Day2Bonus\\Day2Bonus.csproj|solutionrelative:day2bonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\16-C#\\Day2\\lab Solution\\Day2Bonus\\Day2Bonus\\Program.cs",
+              "RelativeDocumentMoniker": "Day2Bonus\\Program.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\16-C#\\Day2\\lab Solution\\Day2Bonus\\Day2Bonus\\Program.cs",
+              "RelativeToolTip": "Day2Bonus\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T14:23:26.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

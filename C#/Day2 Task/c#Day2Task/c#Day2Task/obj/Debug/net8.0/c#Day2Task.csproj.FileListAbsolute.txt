@@ -1,0 +1,14 @@
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\bin\Debug\net8.0\c#Day2Task.exe
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\bin\Debug\net8.0\c#Day2Task.deps.json
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\bin\Debug\net8.0\c#Day2Task.runtimeconfig.json
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\bin\Debug\net8.0\c#Day2Task.dll
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\bin\Debug\net8.0\c#Day2Task.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.AssemblyInfoInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.AssemblyInfo.cs
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.csproj.CoreCompileInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.dll
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\refint\c#Day2Task.dll
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\c#Day2Task.genruntimeconfig.cache
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\c#Day2Task\c#Day2Task\obj\Debug\net8.0\ref\c#Day2Task.dll

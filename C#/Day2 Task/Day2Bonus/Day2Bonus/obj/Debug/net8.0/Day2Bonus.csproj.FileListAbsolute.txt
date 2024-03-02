@@ -1,0 +1,14 @@
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\bin\Debug\net8.0\Day2Bonus.exe
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\bin\Debug\net8.0\Day2Bonus.deps.json
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\bin\Debug\net8.0\Day2Bonus.runtimeconfig.json
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\bin\Debug\net8.0\Day2Bonus.dll
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\bin\Debug\net8.0\Day2Bonus.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.AssemblyInfoInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.AssemblyInfo.cs
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.csproj.CoreCompileInputs.cache
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.dll
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\refint\Day2Bonus.dll
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.pdb
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\Day2Bonus.genruntimeconfig.cache
+F:\Computer Science\iti_intake_44\16-C#\Day2\lab Solution\Day2Bonus\Day2Bonus\obj\Debug\net8.0\ref\Day2Bonus.dll
