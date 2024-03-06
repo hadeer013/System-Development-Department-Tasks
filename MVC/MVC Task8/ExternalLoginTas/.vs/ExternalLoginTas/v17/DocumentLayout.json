@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|f:\\computer science\\iti_intake_44\\20-mvc\\day8\\assignment solution\\externallogintas\\externallogintas\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|solutionrelative:externallogintas\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|f:\\computer science\\iti_intake_44\\20-mvc\\day8\\assignment solution\\externallogintas\\externallogintas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|solutionrelative:externallogintas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|f:\\computer science\\iti_intake_44\\20-mvc\\day8\\assignment solution\\externallogintas\\externallogintas\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|solutionrelative:externallogintas\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|f:\\computer science\\iti_intake_44\\20-mvc\\day8\\assignment solution\\externallogintas\\externallogintas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69DA8AB-3247-41F0-8EB5-20DB9AD8C7AA}|ExternalLoginTas\\ExternalLoginTas.csproj|solutionrelative:externallogintas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "ExternalLoginTas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "ExternalLoginTas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T16:35:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExternalLoginTas\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExternalLoginTas\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:29:52.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\Program.cs",
+              "RelativeDocumentMoniker": "ExternalLoginTas\\Program.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\Program.cs",
+              "RelativeToolTip": "ExternalLoginTas\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:39:15.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ExternalLoginTas\\ScaffoldingReadMe.txt",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day8\\Assignment Solution\\ExternalLoginTas\\ExternalLoginTas\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ExternalLoginTas\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-05T15:27:47.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

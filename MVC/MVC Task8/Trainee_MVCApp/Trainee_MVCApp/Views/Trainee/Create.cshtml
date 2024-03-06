@@ -1,0 +1,36 @@
+﻿@model Trainee_MVCApp.Models.Trainee
+
+@{
+    ViewData["Title"] = "Create";
+    var TrackLst = new SelectList(ViewBag.Tracks, "Id", "Name");
+}
+
+<h1>Create</h1>
+
+<h4>Trainee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <partial name="_CreateEditTraineePartial" model="@Model" />
+            <div class="form-group">
+                <label asp-for="TrackId" class="control-label">Track</label>
+                <select asp-for="TrackId" asp-items="TrackLst" class="form-control"></select>
+                <span asp-validation-for="TrackId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
