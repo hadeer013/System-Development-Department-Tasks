@@ -1,0 +1,75 @@
+﻿@* @model Trainee_MVCApp.Models.Course
+
+@{
+    ViewData["Title"] = "Create";
+    var AllTrainee = new SelectList( ViewBag.Trainees,"Id","Name");
+}
+
+<h1>Create</h1>
+
+<h4>Course</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <partial name="_CreateEditPartial" model="@Model" />
+
+            <select asp-for="TraineeId" asp-items="@AllTrainee"></select>
+            <div class="form-group">
+                <input asp-for="Id" value="0" class="form-control" hidden/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+ *@
+
+ @model Trainee_MVCApp.Models.Course
+
+@{
+    ViewData["Title"] = "Create";
+    var AllTrainee = new SelectList(ViewBag.Trainees, "Id", "Name");
+}
+
+<h1>Create</h1>
+
+<h4>Course</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <partial name="_CreateEditPartial" model="@Model" />
+
+            <div class="form-group">
+                <label for="TraineeId">Select Trainee:</label>
+                <select asp-for="TraineeId" asp-items="@AllTrainee" class="form-control"></select>
+            </div>
+            <div class="form-group">
+                <input asp-for="Id" value="0" class="form-control" hidden />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

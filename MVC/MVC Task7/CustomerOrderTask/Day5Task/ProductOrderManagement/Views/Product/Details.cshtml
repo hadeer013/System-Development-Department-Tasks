@@ -1,0 +1,20 @@
+﻿@model ProductCustomerVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div class="form-control">
+    <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="/images/@Model.ImageUrl" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Details : @Model.ProductName</h5>
+            <p class="card-text">Description : @Model.Description</p>
+            <p class="card-text">CustomerName : @Model.CustomerName</p>
+            <h6 class="card-title" style="color:red">@Model.Price</h6>
+            <a asp-action="Index" class="btn btn-primary">Back To List</a>
+        </div>
+    </div>
+</div>

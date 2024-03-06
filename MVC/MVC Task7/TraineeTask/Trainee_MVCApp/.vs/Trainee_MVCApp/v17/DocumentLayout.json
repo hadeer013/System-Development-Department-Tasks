@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\track\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\track\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\track\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\track\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|f:\\computer science\\iti_intake_44\\20-mvc\\day7\\assignment solutionday7\\traineetask\\trainee_mvcapp\\trainee_mvcapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\trainee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\trainee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\trainee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\trainee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\trainee\\_createedittraineepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\trainee\\_createedittraineepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\controllers\\trackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\controllers\\trackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\track\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\track\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\businesslogic\\repositories\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\businesslogic\\repositories\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\views\\track\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\views\\track\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\viewmodels\\traineevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\viewmodels\\traineevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\trainee_mvcapp\\businesslogic\\interfaces\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617F1F44-5501-48EC-9288-ADCADB92DE54}|Trainee_MVCApp\\Trainee_MVCApp.csproj|solutionrelative:trainee_mvcapp\\businesslogic\\interfaces\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Trainee\\Details.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\Details.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Trainee\\Details.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T01:32:36.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Trainee\\Edit.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\Edit.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Trainee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T09:14:57.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Course\\Create.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T00:09:03.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Course\\Details.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Course\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T00:07:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T00:30:03.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Course\\Index.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T03:45:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Track\\Index.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Index.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Track\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T23:50:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Details.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Track\\Details.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Details.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Track\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T23:43:52.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Trainee\\Create.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\Create.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Trainee\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T09:17:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_CreateEditTraineePartial.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\_CreateEditTraineePartial.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Trainee\\_CreateEditTraineePartial.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Trainee\\_CreateEditTraineePartial.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Trainee\\_CreateEditTraineePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T09:13:04.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Controllers\\TraineeController.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\Controllers\\TraineeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:04:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Controllers\\CourseController.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T00:03:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackController.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Controllers\\TrackController.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Controllers\\TrackController.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Controllers\\TrackController.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\Controllers\\TrackController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T23:34:55.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Program.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Program.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T00:44:37.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Track\\Edit.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Edit.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Track\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T23:47:38.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCUAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T00:34:29.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\Views\\Track\\Create.cshtml",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\Views\\Track\\Create.cshtml",
+              "RelativeToolTip": "Trainee_MVCApp\\Views\\Track\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T23:46:45.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TraineeRepository.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\BusinessLogic\\Repositories\\TraineeRepository.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\BusinessLogic\\Repositories\\TraineeRepository.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\BusinessLogic\\Repositories\\TraineeRepository.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\BusinessLogic\\Repositories\\TraineeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:27:58.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TraineeVM.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\ViewModels\\TraineeVM.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\ViewModels\\TraineeVM.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\ViewModels\\TraineeVM.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\ViewModels\\TraineeVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:14:32.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITraineeRepository.cs",
+              "DocumentMoniker": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\BusinessLogic\\Interfaces\\ITraineeRepository.cs",
+              "RelativeDocumentMoniker": "Trainee_MVCApp\\BusinessLogic\\Interfaces\\ITraineeRepository.cs",
+              "ToolTip": "F:\\Computer Science\\iti_intake_44\\20-MVC\\Day7\\Assignment SolutionDay7\\TraineeTask\\Trainee_MVCApp\\Trainee_MVCApp\\BusinessLogic\\Interfaces\\ITraineeRepository.cs",
+              "RelativeToolTip": "Trainee_MVCApp\\BusinessLogic\\Interfaces\\ITraineeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:17:36.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
